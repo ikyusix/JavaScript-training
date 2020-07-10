@@ -21,7 +21,7 @@ console.log({
     'Id': 33,
     'IsHiddenInUI': false,
     'IsSiteAdmin': false,
-    'LoginName': 'i:0#.w|virtualdomain\\user2',
+    'LoginName': 'i:0#.w|virtualDomain\\user2',
     'PrincipalType': 1,
     "Title": 'user2'
 });
@@ -31,5 +31,7 @@ console.log({
 // Setting the textContent property of an Element is one way to output text on a web page
 // For example open section 1.2 folder
 
-// -------- Using eindow.alert()
+// -------- Using window.alert()
+// See section 1.3
 
+// -------- Another section start on each separate folder
