@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Section 1.2</title>
+</head>
+<body>
+<p id="paragraph"></p>
+
+<h1>Adding an element</h1>
+
+<script>
+    var element = document.createElement('p');
+    element.textContent = "Hello, World 2";
+    document.body.appendChild(element); // add the newly created element to the DOM
+    document.getElementById("paragraph").textContent = "Hello, World";
+</script>
+</body>
+</html>
