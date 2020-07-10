@@ -1,6 +1,6 @@
 ### JavaScript-training
 
-Its just a collection of simple JavaScript apps
+Its just a collection of simple JavaScript syntax
 
 #### Chapter 1 - Getting started with JavaScript
 - Section 1.2 (**Using the DOM API**)
@@ -24,4 +24,16 @@ Its just a collection of simple JavaScript apps
 - Section 3.6 (**Number Constants**)
 - Section 3.7 (**Operation that return NaN**)
 - Section 3.8 (**Math Library functions that return NaN**)
-> feel free for evaluated
+
+[JavaScript Documentation](https://goalkicker.com/JavaScriptBook/) reference
+
+For run script;
+
+Requires [Node.js](https://nodejs.org/en/) to run.
+
+Follow command below for running the program
+```shell script
+$ node (file name).js
+```
+
+> feel free for evaluated my code collections. Thank you.
