@@ -25,6 +25,10 @@ Its just a collection of simple JavaScript syntax
 - Section 3.7 (**Operation that return NaN**)
 - Section 3.8 (**Math Library functions that return NaN**)
 
+#### Chapter 4 - Comments
+- Section 4.1 (**Using comments**)
+- Section 4.2 (**Using HTML comments in JavaScript (Bad practice)**)
+
 [JavaScript Documentation](https://goalkicker.com/JavaScriptBook/) reference
 
 For run script;
