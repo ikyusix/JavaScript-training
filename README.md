@@ -2,20 +2,25 @@
 
 Its just a collection of simple JavaScript syntax
 
-#### Chapter 1 - Getting started with JavaScript
+#### [Chapter 1 - Getting started with JavaScript](#Chapter-1)
+#### [Chapter 2 - JavaScript Variables](#Chapter 2)
+#### [Chapter 3 - Built-in Constants](#Chapter 3)
+#### [Chapter 4 - Comments](#Chapter 4)
+
+#### Chapter 1
 - Section 1.2 (**Using the DOM API**)
 - Section 1.3 (**Using window.alert()**)
 - Section 1.4 (**Using window.prompt()**)
 - Section 1.5 (**Using window.confirm()**)
 - Section 1.6 (**Using the DOM API (with graphical text: Canvas, SVG, or image file)**)
 
-#### Chapter 2 - JavaScript Variables
+#### Chapter 2
 - Section 2.1 (**Defining a Variable**)
 - Section 2.1 (**Using a Variable**)
 - Section 2.1 (**Types a Variable**)
 - Section 2.1 (**Arrays and Objects**)
 
-#### Chapter 3 - Built-in Constants
+#### Chapter 3
 - Section 3.1 (**Null**)
 - Section 3.2 (**Testing for NaN Using isNaN**)
 - Section 3.3 (**Nan**)
@@ -25,7 +30,7 @@ Its just a collection of simple JavaScript syntax
 - Section 3.7 (**Operation that return NaN**)
 - Section 3.8 (**Math Library functions that return NaN**)
 
-#### Chapter 4 - Comments
+#### Chapter 4
 - Section 4.1 (**Using comments**)
 - Section 4.2 (**Using HTML comments in JavaScript (Bad practice)**)
 
