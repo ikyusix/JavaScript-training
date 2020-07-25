@@ -3,10 +3,12 @@
 Its just a collection of simple JavaScript syntax
 
 **Table of Contents**
+1. [Chapter 1 - Getting started with JavaScript](#Chapter-1)
+2. [Chapter 2 - JavaScript Variables](#Chapter-2)
+3. [Chapter 3 - Built-in Constants](#Chapter-3)
+4. [Chapter 4 - Comments](#Chapter-4)
 
-[TOCM]
-
-[TOC]
+----------
 
 #### Chapter 1
 - Section 1.2 (**Using the DOM API**)
