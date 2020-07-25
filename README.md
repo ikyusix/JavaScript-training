@@ -33,6 +33,7 @@ Requires [Node.js](https://nodejs.org/en/) to run.
 
 Follow command below for running the program
 ```shell script
+// go to file directory first
 $ node (file name).js
 ```
 
