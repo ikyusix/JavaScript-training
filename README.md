@@ -3,9 +3,9 @@
 Its just a collection of simple JavaScript syntax
 
 #### [Chapter 1 - Getting started with JavaScript](#Chapter-1)
-#### [Chapter 2 - JavaScript Variables](#Chapter 2)
-#### [Chapter 3 - Built-in Constants](#Chapter 3)
-#### [Chapter 4 - Comments](#Chapter 4)
+#### [Chapter 2 - JavaScript Variables](#Chapter-2)
+#### [Chapter 3 - Built-in Constants](#Chapter-3)
+#### [Chapter 4 - Comments](#Chapter-4)
 
 #### Chapter 1
 - Section 1.2 (**Using the DOM API**)
